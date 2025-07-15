@@ -1,6 +1,6 @@
 ﻿int hero = 10;
 int monster = 10;
-
+// Whoever's health runs out first loses
 Random dice = new Random();
 
 do
