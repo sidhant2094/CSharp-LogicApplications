@@ -1,5 +1,7 @@
 ﻿// SKU = Stock Keeping Unit. 
 // SKU value format: <product #>-<2-letter color code>-<size code>
+
+// MADE BY SIDHANT MALIK
 string sku = "01-MN-L";
 
 string[] product = sku.Split('-');
