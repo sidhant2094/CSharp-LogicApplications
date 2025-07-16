@@ -1,6 +1,5 @@
 using System;
 
-// the ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
 string animalAge = "";
